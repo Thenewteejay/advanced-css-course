@@ -417,7 +417,7 @@
   content: "\e01f";
 }
 .icon-basic-upload:before {
-  content: "\e020";
+  content: "\e020"; 
 }
 .icon-basic-usb:before {
   content: "\e021";
